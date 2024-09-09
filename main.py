@@ -93,3 +93,9 @@ while True:
     else:
         break
 
+#git init
+#git add .
+#git commit -m "message done"
+#git branch -M main (if its master)
+#git remote add origin link of github repository
+#git push -u main
